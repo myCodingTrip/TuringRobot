@@ -1,0 +1,7 @@
+API接入
+API地址:http://www.tuling123.com/openapi/api
+API Key:ecd9d7e5ce6c2596d65f3334afe91895
+URL+?key=APIKEY&info=今天天气怎么样
+
+
+http://www.tuling123.com/openapi/api?key=ecd9d7e5ce6c2596d65f3334afe91895&info=今天天气怎么样
